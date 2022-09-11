@@ -1,2 +1,2 @@
-const test = "This is a test in main branch";
+const test = "This is a test in development branch";
 console.log(test);
